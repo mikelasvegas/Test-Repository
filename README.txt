@@ -1,0 +1,1 @@
+This is a sample .txt file.  I wrote this to learn how to use GitHub.
